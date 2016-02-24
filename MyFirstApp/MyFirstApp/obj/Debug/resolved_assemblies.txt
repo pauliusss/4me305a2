@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\MyFirstApp.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\mscorlib.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.Core.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.Web.Services.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.Xml.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll

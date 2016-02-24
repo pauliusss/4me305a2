@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.MyFirstApp.apk
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.MyFirstApp-Signed.apk
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\android\bin\MyFirstApp.MyFirstApp.apk
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\res\layout\main.xml
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\res\values\strings.xml
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\res\drawable\icon.png
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\R.cs.flag
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\uploadflags.txt
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.dll.mdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v1\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.dll.mdb
