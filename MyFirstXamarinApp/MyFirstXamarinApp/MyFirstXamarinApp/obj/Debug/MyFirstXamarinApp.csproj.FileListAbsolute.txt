@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\MyFirstXamarinApp.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\MyFirstXamarinApp.pdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\MyFirstXamarinApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\MyFirstXamarinApp.dll
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\MyFirstXamarinApp.pdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\MyFirstXamarinApp.dll.mdb
+C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\MyFirstXamarinApp.dll.mdb
