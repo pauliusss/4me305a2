@@ -1,0 +1,13 @@
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\App3.dll
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\App3.pdb
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\obj\Debug\App3.dll
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\obj\Debug\App3.pdb
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\App3.dll.mdb
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\Users\User\Source\GitHub\4me305a2\App3\App3\App3\bin\Debug\App3.dll.mdb

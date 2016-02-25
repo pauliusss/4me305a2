@@ -25,3 +25,8 @@ C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\M
 C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\res\values\styles.xml
 C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\MyFirstXamarinApp.Droid.dll.mdb
 C:\Users\User\Documents\Asmeniniai\studiesLNU\2016VT1\4ME305\assignments\A2\v2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\bin\Debug\MyFirstXamarinApp.Droid.dll.mdb
+C:\Users\User\Source\GitHub\4me305a2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\MyFirstXamarinApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\GitHub\4me305a2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Users\User\Source\GitHub\4me305a2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\User\Source\GitHub\4me305a2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\MyFirstXamarinApp.Droid.dll
+C:\Users\User\Source\GitHub\4me305a2\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.Droid\obj\Debug\MyFirstXamarinApp.Droid.pdb
